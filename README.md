@@ -1,1 +1,1 @@
-Работа выполнена Ruslan Troeg.
+Работа выполнена Maks Klenov
